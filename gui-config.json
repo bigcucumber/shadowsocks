@@ -1,0 +1,1 @@
+{"pacUrl": null, "localPort": 1080, "useOnlinePac": false, "index": 0, "isDefault": false, "enabled": true, "strategy": null, "shareOverLan": false, "availabilityStatistics": false, "global": false, "configs": [{"method": "aes-256-cfb", "password": "20071997", "server": "us1.iss.tf", "server_port": "443", "remarks": ""}]}
