@@ -8,8 +8,8 @@ import re, json, os, time, logging, urllib, urllib.request as request
 
 HOSTADDR = "http://www.ishadowsocks.com/"
 ISHADOWSCOKS_PROCESS_NAME = "Shadowsocks.exe"
-ISHADOWSCOKS_PROCESS_PATH = "D:/Services/shadowsocks/Shadowsocks.exe"
-SERVER_TYPE = "C"  # "A" => USA , "B" => HongKong, "C" => Japan
+ISHADOWSCOKS_PROCESS_PATH = "D:/Services/shadowsocks/Shadowsocks.exe"  # D:\Services\shadowsocks/ shadowsocks.exe文件所在的目录
+SERVER_TYPE = "C"  # "A" => USA , "B" => HongKong, "C" => Japan  # 选择的代理服务器
 
 
 def updateServer(proxyServerType = "C"):
