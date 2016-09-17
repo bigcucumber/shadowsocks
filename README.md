@@ -30,8 +30,9 @@
 
     * python添加, 主要注意`操作这块`
 
-   ![操作](http://f.hiphotos.baidu.com/exp/w=480/sign=0c0a912a5f6034a829e2b989fb1349d9/f9dcd100baa1cd11e7a46a0bba12c8fcc3ce2d8e.jpg)
-    注意**起始于**要指到shadowsocks目录下 脚本为`python ServerUpdate.py`(默认python添加到环境变量中了, 如果没有, 可制定全路径)
+      ![操作](http://f.hiphotos.baidu.com/exp/w=480/sign=0c0a912a5f6034a829e2b989fb1349d9/f9dcd100baa1cd11e7a46a0bba12c8fcc3ce2d8e.jpg)  
+
+      注意**起始于**要指到shadowsocks目录下 脚本为`python ServerUpdate.py`(默认python添加到环境变量中了, 如果没有, 可制定全路径)
 
     * php添加, 同上, 脚本为`php ServerUpdate.php` (默认python添加到环境变量中了, 如果没有, 可制定全路径)
 
